@@ -53,7 +53,7 @@ export default class Dashboard extends React.Component {
                         <Progress
                                 type="circle"
                                 width={100}
-                                percent={100}
+                                percent={67}
                                 theme={{
                                     color: '#2ECC71'
                                 }}
@@ -71,7 +71,7 @@ export default class Dashboard extends React.Component {
                         <Progress
                                 type="circle"
                                 width={100}
-                                percent={100}
+                                percent={0}
                                 theme={{
                                     color: '#2ECC71'
                                 }}
@@ -89,7 +89,7 @@ export default class Dashboard extends React.Component {
                         <Progress
                                 type="circle"
                                 width={100}
-                                percent={100}
+                                percent={65}
                                 theme={{
                                     color: '#2ECC71'
                                 }}
